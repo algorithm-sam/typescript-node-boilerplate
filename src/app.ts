@@ -1,6 +1,6 @@
 import express from "express";
 // import mongoose from "mongoose";
- import { BASE_PATH } from "./config";
+ import { BASE_PATH } from "./config/config";
 
 class App {
 
